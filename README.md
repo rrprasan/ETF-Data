@@ -12,3 +12,4 @@ Available files:
 7. Regal Rexnord revenue, operating income, net income, and return on equity. File Name: RRX_All_Facts.xlsx
 8. Gates Industrial Corp. revenue, operating income, net income, and return on equity. File Name: GTES_All_Facts.xlsx
 9. AMETEK revenue, operating income, net income, and return on equity. File Name: AME_All_Facts.xlsx
+10. ITT revenue, operating income, net income, and return on equity. File Name: ITT_All_Facts.xlsx
