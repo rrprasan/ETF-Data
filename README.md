@@ -8,3 +8,7 @@ Available files:
 3. 3M revenue, operating income, net income, and return on equity. File Name: MMM_ALL_Facts.xlsx
 4. Eaton Corp. revenue, operating income, net income, and return on equity. File Name: ETN_ALL_Facts.xlsx
 5. Honeywell revenue, operating income, net income, and return on equity. File Name: HON_All_Facts.xlsx
+6. Timken revenue, operating income, net income, and return on equity. File Name: TKR_All_Facts.xlsx 
+7. Regal Rexnord revenue, operating income, net income, and return on equity. File Name: RRX_All_Facts.xlsx
+8. Gates Industrial Corp. revenue, operating income, net income, and return on equity. File Name: GTES_All_Facts.xlsx
+9. AMETEK revenue, operating income, net income, and return on equity. File Name: AME_All_Facts.xlsx
